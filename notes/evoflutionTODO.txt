@@ -1,0 +1,9 @@
+EvoFlution to do
+
+1. Finish documenting and tidying initial package flow
+2. Create outline for more thorough simulations
+3. Simulate
+4. Create downstream pipeline better
+5. Stats pipeline also
+6. Plot pipeline also
+7. Leave out real time for now, but in background to be done
